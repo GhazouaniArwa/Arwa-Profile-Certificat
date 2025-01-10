@@ -21,4 +21,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazouaniarwa&show_icons=true&locale=en" alt="ghazouaniarwa" /></p>
 
+**Online Certificat Data Science**
+[Certificat Data Science.pdf](https://github.com/user-attachments/files/18376897/Certificat.Data.Science.pdf)
+**Certificat Formation Desgin Graphique Adobe Illustrator**
+[Certificat Formation Desgin Graphique Adobe Illustrator.pdf](https://github.com/user-attachments/files/18376917/Certificat.Formation.Desgin.Graphique.Adobe.Illustrator.pdf)
+**Online Certificat Django**
+[certification Django.pdf](https://github.com/user-attachments/files/18376960/certification.Django.pdf)
+**Online Certificat AI and Machine Learning**
+[certification AI & Machine Learning.pdf](https://github.com/user-attachments/files/18376967/certification.AI.Machine.Learning.pdf)
+**Online Certificat Docker**
+[certification Docker.pdf](https://github.com/user-attachments/files/18376973/certification.Docker.pdf)
+**Online Certificat Git**
+[certification Git.pdf](https://github.com/user-attachments/files/18376979/certification.Git.pdf)
 
