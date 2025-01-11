@@ -22,7 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazouaniarwa&show_icons=true&locale=en" alt="ghazouaniarwa" /></p>
 
 **Online Certificat Data Science**
-[Certificat Data Science.pdf](https://github.com/user-attachments/files/18376897/Certificat.Data.Science.pdf)
+
+![image](https://github.com/user-attachments/assets/8a4da9ba-73b6-44bb-b605-ad5b9a761678)
+
 **Certificat Formation Desgin Graphique Adobe Illustrator**
 [Certificat Formation Desgin Graphique Adobe Illustrator.pdf](https://github.com/user-attachments/files/18376917/Certificat.Formation.Desgin.Graphique.Adobe.Illustrator.pdf)
 **Online Certificat Django**
