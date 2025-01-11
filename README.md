@@ -27,8 +27,10 @@
 
 **Certificat Formation Desgin Graphique Adobe Illustrator**
 [Certificat Formation Desgin Graphique Adobe Illustrator.pdf](https://github.com/user-attachments/files/18376917/Certificat.Formation.Desgin.Graphique.Adobe.Illustrator.pdf)
+
 **Online Certificat Django**
-[certification Django.pdf](https://github.com/user-attachments/files/18376960/certification.Django.pdf)
+![image](https://github.com/user-attachments/assets/1a75d592-5743-4771-82e6-b1d040d40a0d)
+
 **Online Certificat AI and Machine Learning**
 [certification AI & Machine Learning.pdf](https://github.com/user-attachments/files/18376967/certification.AI.Machine.Learning.pdf)
 **Online Certificat Docker**
