@@ -36,8 +36,7 @@
 
 ![image](https://github.com/user-attachments/assets/506cbd84-118d-469a-9263-29c6aea6ec11)
 
-**Online Certificat Docker**
-[certification Docker.pdf](https://github.com/user-attachments/files/18376973/certification.Docker.pdf)
 **Online Certificat Git**
-[certification Git.pdf](https://github.com/user-attachments/files/18376979/certification.Git.pdf)
+
+![image](https://github.com/user-attachments/assets/a34c2fcb-8ece-42cc-b563-e3ee6309a194)
 
