@@ -25,8 +25,6 @@
 
 ![image](https://github.com/user-attachments/assets/8a4da9ba-73b6-44bb-b605-ad5b9a761678)
 
-**Certificat Formation Desgin Graphique Adobe Illustrator**
-[Certificat Formation Desgin Graphique Adobe Illustrator.pdf](https://github.com/user-attachments/files/18376917/Certificat.Formation.Desgin.Graphique.Adobe.Illustrator.pdf)
 
 **Online Certificat Django**
 
