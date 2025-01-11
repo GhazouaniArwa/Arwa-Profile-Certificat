@@ -32,7 +32,9 @@
 ![image](https://github.com/user-attachments/assets/1a75d592-5743-4771-82e6-b1d040d40a0d)
 
 **Online Certificat AI and Machine Learning**
-[certification AI & Machine Learning.pdf](https://github.com/user-attachments/files/18376967/certification.AI.Machine.Learning.pdf)
+
+![image](https://github.com/user-attachments/assets/506cbd84-118d-469a-9263-29c6aea6ec11)
+
 **Online Certificat Docker**
 [certification Docker.pdf](https://github.com/user-attachments/files/18376973/certification.Docker.pdf)
 **Online Certificat Git**
