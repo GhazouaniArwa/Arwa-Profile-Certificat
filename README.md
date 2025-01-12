@@ -42,3 +42,7 @@
 
 ![Certificat Formation Jira](https://github.com/user-attachments/assets/65dc2368-2d6a-4064-b362-f249c03e9871)
 
+**Online Certificat Wordpress**
+
+![Formation Wordpress 1](https://github.com/user-attachments/assets/6f156417-2a65-45b4-9269-30e6e2460184)
+
