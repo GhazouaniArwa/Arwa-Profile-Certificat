@@ -38,3 +38,7 @@
 
 ![image](https://github.com/user-attachments/assets/a34c2fcb-8ece-42cc-b563-e3ee6309a194)
 
+**Online Certificat Jira**
+
+![Certificat Formation Jira](https://github.com/user-attachments/assets/65dc2368-2d6a-4064-b362-f249c03e9871)
+
