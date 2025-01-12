@@ -44,6 +44,6 @@
 
 ![Formation Wordpress 1](https://github.com/user-attachments/assets/6f156417-2a65-45b4-9269-30e6e2460184)
 
-**Certificat Prospect Client
+**Certificat Prospect Client**
 
 ![Formation workshop prospection (1)](https://github.com/user-attachments/assets/6f9f6778-321b-4eb2-a45b-02c89f998799)
