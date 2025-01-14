@@ -53,7 +53,28 @@
 Skills : Azure Machine Learning 
 1) What is Azure Machine Learning ?
 2) Who is Machine Learning For ?
-3) Readiness and security
-4) Machine Learning Project Workflow
+a) Scoping : Decide write AI uses cases , b) Prepare Data and Peipline (DATAOPS) : sourcing , preparing , cleaning , Labeling  C) Modeling : Train , Iterate AI Models D) Deloyment : MLOPS
+Deploy Model to create value : Deployment and Monitoring metrics
+3) Readiness and security 
+a) Azure virtual Network , b) Azure Key Valut , C) Azure container Registry 
+4) Machine Learning Project Workflow 
+a) Define Task , B) Data Explore and prepare C) Train and Validate Model D) Deploy Model E) MLOPS
 5) MLOPS : Devops For Machine Learning
+Data , Train model , Deploy model , Monitor , AnalyZe Performance 
 6) What is Azure Machine Learning Studio ?
+7) What is Azure Active Directory ? 
+8) Windows AD vs Azure AD
+   a) ADDS ( windows Active Directory Domain Service ) : Data Factory 
+   b) ADLS ( Azure Data Lake Storage services )
+   c) ADFS ( Active Directory Federation Services )
+   D) ADCS ( Active Directory and Certification Services )
+   E) ADRMS ( Active Directory Rights Managements Services )
+   F ) WAAD ( Windows Azure Active Directory )
+   G) Windows Azure AccessControl Service 
+9) what is Azure Devops ? : Azure :  Repos , Pipelines ( CI / CD) , Boards , Test Plans , Artifacts
+
+**Practice Exemple**
+
+![image](https://github.com/user-attachments/assets/b2fd0260-dad0-483c-91a7-9d3f95b34690)
+
+10) Azure vs AWS vs GCP : Azure : create , Desgin , Monitor 
