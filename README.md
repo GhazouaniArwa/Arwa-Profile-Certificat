@@ -47,3 +47,13 @@
 **Certificat Prospect Client**
 
 ![Formation workshop prospection (1)](https://github.com/user-attachments/assets/6f9f6778-321b-4eb2-a45b-02c89f998799)
+
+
+**Online Certificat Simplearn Microsoft Azure Fundamentals**
+Skills : Azure Machine Learning 
+1) What is Azure Machine Learning ?
+2) Who is Machine Learning For ?
+3) Readiness and security
+4) Machine Learning Project Workflow
+5) MLOPS : Devops For Machine Learning
+6) What is Azure Machine Learning Studio ?
