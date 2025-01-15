@@ -77,7 +77,10 @@ Data , Train model , Deploy model , Monitor , AnalyZe Performance
 
 ![image](https://github.com/user-attachments/assets/b2fd0260-dad0-483c-91a7-9d3f95b34690)
 
-10) Azure vs AWS vs GCP : Azure : create , Desgin , Monitor 
+**10) Azure VS AWS VS GCP** 
+
+Azure : create , Desgin , Monitor application
+AWS : Compute , Stroage , DataBase , Content Delivery 
 
 
 **Online Certficat course Python And Django Framework And HTML 5 Udemy**
