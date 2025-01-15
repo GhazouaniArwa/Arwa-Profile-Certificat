@@ -78,3 +78,12 @@ Data , Train model , Deploy model , Monitor , AnalyZe Performance
 ![image](https://github.com/user-attachments/assets/b2fd0260-dad0-483c-91a7-9d3f95b34690)
 
 10) Azure vs AWS vs GCP : Azure : create , Desgin , Monitor 
+
+
+**Online Certficat course Python And Django Framework And HTML 5 Udemy**
+
+**Skills** 
+
+BasicpythonHtlm5 , Django , Django Making a Backend Dictionary To Store, SolvingProblem,Adding list Django, Creating a Poll App in Django , Django Alert Handling in Forms
+
+![image](https://github.com/user-attachments/assets/bf461db6-14fa-4954-93ba-8e1768f0be3f)
